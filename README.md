@@ -1,2 +1,9 @@
-# vue-client-template
-This is a base template to create a SPA using Vue3+Vite
+# Vue 3 + Vite Template
+
+This is a template for an Single Page Application in VueJs
+
+Tech Stack:
+- Vue3
+- Vue Router
+- Pinia
+- Tailwind
