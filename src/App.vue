@@ -30,3 +30,11 @@ export default {
 <template>
   <router-view></router-view>
 </template>
+
+
+<style>
+#app {
+  position: relative;
+  min-height: 100vh;
+}
+</style>
